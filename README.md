@@ -47,5 +47,8 @@ https://user-images.githubusercontent.com/96637473/172067531-ccb3f5f5-0f63-4cfd-
  
 ## 4- ARDUİNO LABVİEW SERİ HABERLEŞME
 
-## 5 - LABVİEW İLE ARAYÜZ
+Seri haberleşme için VISA kullanılmıştır. Bu tool'u programı kurarken indirebilir veya sonradan ekleyebilirsiniz.
+![resim](https://github.com/sevvaleminekucuk/labviewProje/blob/main/serialcommunication.png)
 
+## 5 - LABVİEW İLE ARAYÜZ
+![resim](https://github.com/sevvaleminekucuk/labviewProje/blob/main/labviewinterface.png)
