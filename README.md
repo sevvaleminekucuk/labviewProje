@@ -52,3 +52,4 @@ Seri haberleşme için VISA kullanılmıştır. Bu tool'u programı kurarken ind
 
 ## 5 - LABVİEW İLE ARAYÜZ
 ![resim](https://github.com/sevvaleminekucuk/labviewProje/blob/main/labviewinterface.png)
+![resim](https://github.com/sevvaleminekucuk/labviewProje/blob/main/irsenordeneme.png)
